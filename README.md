@@ -3,7 +3,7 @@
 - 👨🏼‍💻 I’m a professional software developer at [talanx-group](https://www.talanx.com/en/talanx-group/brands/hdi) and a certified [Scrum Master](https://www.scrum.org/courses/professional-scrum-master-training)
   - I love to write java applications and learning new technologies 
   - I am currentliy learning iOS development with Swift and SwiftUI   
-- 🔭 I’m currently working on the [ta4j](https://github.com/ta4j/ta4j) project
+- 🔭 I’m currently working on the [ta4j](https://github.com/ta4j/ta4j) project and the [ta4swift](https://github.com/team172011/ta4swift) project
 - 🤵🏼‍♂️ I’m on [linkedIn](https://www.linkedin.com/in/simonjustuswimmer/)
 
 
